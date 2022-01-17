@@ -1,0 +1,38 @@
+.image{
+    margin-top: 60px;
+    text-align: center;
+}
+.explanation{
+    width: 800px;
+    margin-left: 5px;
+    font-size: 18px;
+    line-height: 1.5;
+    font-family: "Copperplate"
+
+}
+.title{
+    text-align: left;
+    font-size: 23px;
+    font-family: "Copperplate"
+
+}
+.copyright{
+    font-size: 16px;
+    text-align: left;
+    margin-left: 5px;
+    font-family: "Copperplate"
+
+
+}
+
+.likeButton{
+    background-color: transparent;
+    border: none;
+    font-size: 25px;
+    outline: none;
+    color: white;
+    float: right;
+}
+.likeButton i:hover{
+    cursor:pointer;
+}
