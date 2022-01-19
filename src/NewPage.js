@@ -78,7 +78,7 @@ const NewPage = () => {
 
                 
                 <div className = "content">
-                    <p className = "name">Spacestgram</p>
+                    <p className = "name">Spacestagram</p>
                     <p className = "subName">Brought to you by NASA's Astronomy Photo of the Dat (APOD) API</p>
                     
                     {showPosts()}
